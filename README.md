@@ -35,31 +35,30 @@ Design a device that enables a person with tetraplegia to trigger a switch actio
 2. Design the electrical diagram, program the modules
 3. Assemble the casing and overall device
 4. Record instructions
-5. Train the device
-   * Different subjects
-   * Short and long commands
 7. Measure the performance
    * Different subjects
+   * Different length of commands
    * Different environments
    * Different distance from computer
 
 ## Result
-A. Training
-Response to short commands:
+- Response to short commands:
 
 <img width="375" alt="image" src="https://github.com/learnindya/Voice-Recognition-Device/assets/105585813/8fff8e94-2359-42e4-a574-a609180d0214">
 
 Accuracy, sensitivity, precision, prevalence and false positive rate were calculated. For the group testing their own voice (blue column) all values were above 98%. Meanwhile, the result from testing the other’s voice had lower results for all the parameters, and a decrease in respect to increasing distance was visible.
 
-Response to longer commands:
+- Response to longer commands:
 
 <img width="379" alt="image" src="https://github.com/learnindya/Voice-Recognition-Device/assets/105585813/d0232993-5ae1-4b3a-b3a2-a556b13e4c1f">
 
 There was a decrease in all parameters for all subjects compared to short commands. The highest value for testing own’s voice was 94.67%.
 
-B. Performance
+- Different environments:
 
 <img width="377" alt="image" src="https://github.com/learnindya/Voice-Recognition-Device/assets/105585813/13f855f6-7d7f-4036-a13c-0c2de9e0b046">
+
+- Different distance from computer:
 
 <img width="384" alt="image" src="https://github.com/learnindya/Voice-Recognition-Device/assets/105585813/d62a3aac-c21a-4c52-95c1-a6bc77a075bc">
 
